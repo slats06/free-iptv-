@@ -1,0 +1,9 @@
+---Bein---
+#EXTINF:-1,BEIN1MAX_SD
+http://212.47.248.157:2300/live/star7arab/star7arab/1.ts
+#EXTINF:-1,BEIN2MAX_SD
+http://212.47.248.157:2300/live/star7arab/star7arab/2.ts
+#EXTINF:-1,BEIN1MAX_HD
+http://212.47.248.157:2300/live/star7arab/star7arab/3.ts
+#EXTINF:-1,BEIN2MAX_HD
+http://212.47.248.157:2300/live/star7arab/star7arab/4.ts
