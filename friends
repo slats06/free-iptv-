@@ -17,20 +17,36 @@ http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1480.m3u8
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1479.m3u8
 #EXTINF:-1,TSN 5
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1478.m3u8
+#EXTINF:-1,UK: FOX SPORTS 1 US HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3587.ts
+#EXTINF:-1,UK: FOX SPORTS 2 US HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3588.ts
+#EXTINF:-1,UK: SKY SPORT 1 US HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3657.ts
 
 
 #EXTINF:-1 , [COLOR yellow] --sky sports--[/COLOR] 
 #EXTM3U 
 #EXTINF:-1,Sky Sports 1 HD
 http://topiptv.net:5890/live/sani/sani/273.ts
+#EXTINF:-1,UK: SKY SPORTS 1 HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3658.ts
 #EXTINF:-1,Sky Sports 2 HD
 http://topiptv.net:5890/live/sani/sani/274.ts
+#EXTINF:-1,UK: SKY SPORTS 2 HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3659.ts
 #EXTINF:-1,Sky Sports 3 HD
 http://topiptv.net:5890/live/sani/sani/275.ts
+#EXTINF:-1,UK: SKY SPORTS 3 HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3660.ts
 #EXTINF:-1,Sky Sports 4 HD
 http://topiptv.net:5890/live/sani/sani/276.ts
+#EXTINF:-1,UK: SKY SPORTS 4 HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3661.ts
 #EXTINF:-1,Sky Sports 5 HD
 http://topiptv.net:5890/live/sani/sani/277.ts
+#EXTINF:-1,UK: SKY SPORTS 5 HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3662.ts
 #EXTINF:-1,Sky Sports F1 HD
 http://topiptv.net:5890/live/sani/sani/278.ts
 #EXTINF:-1,Sky News HD
@@ -55,6 +71,8 @@ http://149.202.194.36:8000/live/Badri/Badri/31.ts
 http://topiptv.net:5890/live/sani/sani/812.ts
 #EXTINF:-1,UK=PremierSport
 http://globalstream.noip.us:8000/live/test/test/756.ts
+#EXTINF:-1,UK: SKY PREMIER SPORTS HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3652.ts
 #EXTINF:-1,Box Nation
 http://topiptv.net:5890/live/sani/sani/1711.ts
 #EXTINF:-1,BT Sport 1 HD
@@ -66,3 +84,29 @@ http://topiptv.net:5890/live/sani/sani/1257.ts
 #EXTINF:-1,BT Sport EuroHD
 http://topiptv.net:5890/live/sani/sani/1215.ts
 
+#EXTINF:-1 , [COLOR red] --movies--[/COLOR] 
+#EXTM3U 
+#EXTINF:-1,UK: SKY MOVIES ACTION HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3638.ts
+#EXTINF:-1,UK: SKY MOVIES ATLANTIC
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3639.ts
+#EXTINF:-1,UK: SKY MOVIES COMEDY HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3640.ts
+#EXTINF:-1,UK: SKY MOVIES DISNEY
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3641.ts
+#EXTINF:-1,UK: SKY MOVIES DRAMA HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3642.ts
+#EXTINF:-1,UK: SKY MOVIES FAMILY HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3643.ts
+#EXTINF:-1,UK: SKY MOVIES MODERN GREATS
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3644.ts
+#EXTINF:-1,UK: SKY MOVIES PREMIERE HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3645.ts
+#EXTINF:-1,UK: SKY MOVIES ScFi HORROR
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3646.ts
+#EXTINF:-1,UK: SKY MOVIES SELECT HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3647.ts
+#EXTINF:-1,UK: SKY Movies Showcase HD
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3648.ts
+#EXTINF:-1,UK: SKY MOVIES THRILLER
+http://s1.finoip.com:20000/live/test90702/Qr0mZHpAco/3649.ts
