@@ -1,1220 +1,1218 @@
 
-
-#EXTM3U
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC One" tvg-logo="" group-title="UK: Entertainment",BBC One
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/734.m3u8
-#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="BBC One HD" tvg-logo="" group-title="UK: Entertainment",BBC One HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/733.m3u8
-#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC Two" tvg-logo="" group-title="UK: Entertainment",BBC Two
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/730.m3u8
-#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC Two HD" tvg-logo="" group-title="UK: Entertainment",BBC Two HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/729.m3u8
-#EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="ITV" tvg-logo="" group-title="UK: Entertainment",ITV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/610.m3u8
-#EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="ITV HD" tvg-logo="" group-title="UK: Entertainment",ITV HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITV FHD" tvg-logo="" group-title="UK: Entertainment",ITV FHD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1174.m3u8
-#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="" group-title="UK: Entertainment",Channel 4
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/695.m3u8
-#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 HD" tvg-logo="" group-title="UK: Entertainment",Channel 4 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/694.m3u8
-#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="" group-title="UK: Entertainment",Channel 5
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/692.m3u8
-#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5 HD" tvg-logo="" group-title="UK: Entertainment",Channel 5 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/690.m3u8
-#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Sky One" tvg-logo="" group-title="UK: Entertainment",Sky One
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/498.m3u8
-#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Sky One HD" tvg-logo="" group-title="UK: Entertainment",Sky One HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3769.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Two" tvg-logo="" group-title="UK: Entertainment",Sky Two
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/496.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Living" tvg-logo="" group-title="UK: Entertainment",Sky Living
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Living HD" tvg-logo="" group-title="UK: Entertainment",Sky Living HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/754.m3u8
-#EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic" tvg-logo="" group-title="UK: Entertainment",Sky Atlantic
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Arts" tvg-logo="" group-title="UK: Entertainment",Sky Arts
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2720.m3u8
-#EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave" tvg-logo="" group-title="UK: Entertainment",Dave
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/668.m3u8
-#EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave HD" tvg-logo="" group-title="UK: Entertainment",Dave HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/757.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="Comedy Central" tvg-logo="" group-title="UK: Entertainment",Comedy Central
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/674.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLD" tvg-logo="" group-title="UK: Entertainment",GOLD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/628.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="" group-title="UK: Entertainment",Syfy
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/488.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC Three HD" tvg-logo="" group-title="UK: Entertainment",BBC Three HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1139.m3u8
-#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC Four" tvg-logo="" group-title="UK: Entertainment",BBC Four
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/736.m3u8
-#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC 4 HD" tvg-logo="" group-title="UK: Entertainment",BBC 4 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/906.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITV2" tvg-logo="" group-title="UK: Entertainment",ITV2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITV2 HD" tvg-logo="" group-title="UK: Entertainment",ITV2 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITV 3" tvg-logo="" group-title="UK: Entertainment",ITV 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITV Encore" tvg-logo="" group-title="UK: Entertainment",ITV Encore
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITV Encore HD" tvg-logo="" group-title="UK: Entertainment",ITV Encore HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/604.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITVBe" tvg-logo="" group-title="UK: Entertainment",ITVBe
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/595.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITVbe HD" tvg-logo="" group-title="UK: Entertainment",ITVbe HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/907.m3u8
-#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge" tvg-logo="" group-title="UK: Entertainment",Challenge
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="UK: Entertainment",FOX HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/756.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="UK: Music",MTV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/574.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="Comedy Xtra" tvg-logo="" group-title="UK: Entertainment",Comedy Xtra
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/673.m3u8
-#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="alibi" tvg-logo="" group-title="UK: Entertainment",alibi
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/744.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Good Food" tvg-logo="" group-title="UK: Entertainment",Good Food
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/626.m3u8
-#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4" tvg-logo="" group-title="UK: Entertainment",E4
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/650.m3u8
-#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4seven" tvg-logo="" group-title="UK: Music",4seven
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/749.m3u8
-#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="CBS Reality" tvg-logo="" group-title="UK: Entertainment",CBS Reality
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/700.m3u8
-#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action" tvg-logo="" group-title="UK: Entertainment",CBS Action
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/702.m3u8
-#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="CBS Drama" tvg-logo="" group-title="UK: Entertainment",CBS Drama
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/701.m3u8
-#EXTINF:-1 tvg-id="E.uk" tvg-name="E!" tvg-logo="" group-title="UK: Entertainment",E!
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/652.m3u8
-#EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama" tvg-logo="" group-title="UK: Entertainment",Drama
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/653.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Spike" tvg-logo="" group-title="UK: Entertainment",Spike
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/492.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="UK: Entertainment",DMAX
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="5 USA" tvg-logo="" group-title="UK: Entertainment",5 USA
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/748.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Home & Health" tvg-logo="" group-title="UK: Documentaries",Home & Health
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/620.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="" group-title="UK: Entertainment",Food Network
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/635.m3u8
-#EXTINF:-1 tvg-id="SkyMoviesPremiere.uk" tvg-name="Sky Cinema Premiere" tvg-logo="" group-title="UK: Movies",Sky Cinema Premiere
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premiere HD" tvg-logo="" group-title="UK: Movies",Sky Cinema Premiere HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Matt Damon" tvg-logo="" group-title="UK: Movies",Sky Cinema Matt Damon
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/514.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Matt Damon HD" tvg-logo="" group-title="UK: Movies",Sky Cinema Matt Damon HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1022.m3u8
-#EXTINF:-1 tvg-id="Sky Movies Disney HD" tvg-name="Sky Cinema Disney" tvg-logo="" group-title="UK: Movies",Sky Cinema Disney
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Disney HD" tvg-logo="" group-title="UK: Movies",Sky Cinema Disney HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family" tvg-logo="" group-title="UK: Movies",Sky Cinema Family
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/516.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family HD" tvg-logo="" group-title="UK: Movies",Sky Cinema Family HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action & Adventure" tvg-logo="" group-title="UK: Movies",Sky Cinema Action & Adventure
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action & Adventure HD" tvg-logo="" group-title="UK: Movies",Sky Cinema Action & Adventure HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/769.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy" tvg-logo="" group-title="UK: Movies",Sky Cinema Comedy
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy HD" tvg-logo="" group-title="UK: Movies",Sky Cinema Comedy HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/772.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Crime & Thriller" tvg-logo="" group-title="UK: Movies",Sky Cinema Crime & Thriller
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/776.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Crime & Thriller HD" tvg-logo="" group-title="UK: Movies",Sky Cinema Crime & Thriller HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2673.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama & Romance" tvg-logo="" group-title="UK: Movies",Sky Cinema Drama & Romance
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama & Romance HD" tvg-logo="" group-title="UK: Movies",Sky Cinema Drama & Romance HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/775.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Sci-Fi & Horror" tvg-logo="" group-title="UK: Movies",Sky Cinema Sci-Fi & Horror
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Sci-Fi & Horror HD" tvg-logo="" group-title="UK: Movies",Sky Cinema Sci-Fi & Horror HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/773.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Select" tvg-logo="" group-title="UK: Movies",Sky Cinema Select
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/510.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Select HD" tvg-logo="" group-title="UK: Movies",Sky Cinema Select HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/777.m3u8
-#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4" tvg-logo="" group-title="UK: Movies",Film4
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/639.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movies 4 Men" tvg-logo="" group-title="UK: Movies",Movies 4 Men
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/575.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Music" tvg-logo="" group-title="UK: Music",MTV Music
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV BASE" tvg-logo="" group-title="UK: Music",MTV BASE
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/572.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Base HD" tvg-logo="" group-title="UK: Music",MTV Base HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/767.m3u8
-#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="" group-title="UK: Music",MTV Hits
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/569.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hits HD" tvg-logo="" group-title="UK: Music",MTV Hits HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV DANCE" tvg-logo="" group-title="UK: Music",MTV DANCE
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Dance HD" tvg-logo="" group-title="UK: Music",MTV Dance HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/766.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV ROCKS" tvg-logo="" group-title="UK: Music",MTV ROCKS
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/566.m3u8
-#EXTINF:-1 tvg-id="MTV Rocks" tvg-name="MTV Rocks HD" tvg-logo="" group-title="UK: Music",MTV Rocks HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/765.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV CLASSIC" tvg-logo="" group-title="UK: Music",MTV CLASSIC
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Heart TV UK" tvg-logo="" group-title="UK: Music",Heart TV UK
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1144.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EPL | Game Choice 1" tvg-logo="" group-title="UK: Sports",EPL | Game Choice 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9279.m3u8
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HQ" tvg-logo="" group-title="UK: Sports",Sky Sports News HQ
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/499.m3u8
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HQ HD" tvg-logo="" group-title="UK: Sports",Sky Sports News HQ HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/783.m3u8
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HQ HD*" tvg-logo="" group-title="UK: Sports",Sky Sports News HQ HD*
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1218.m3u8
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD" tvg-logo="" group-title="UK: Sports",Sky Sports Mix HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/500.m3u8
-#EXTINF:-1 tvg-id="SkySports1.uk" tvg-name="Sky Sports 1" tvg-logo="" group-title="UK: Sports",Sky Sports 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/506.m3u8
-#EXTINF:-1 tvg-id="SkySports1.uk" tvg-name="Sky Sports 1 HD" tvg-logo="" group-title="UK: Sports",Sky Sports 1 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/916.m3u8
-#EXTINF:-1 tvg-id="SkySports1.uk" tvg-name="Sky Sports 1 HD*" tvg-logo="" group-title="UK: Sports",Sky Sports 1 HD*
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1213.m3u8
-#EXTINF:-1 tvg-id="SkySports2.uk" tvg-name="Sky Sports 2" tvg-logo="" group-title="UK: Sports",Sky Sports 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/505.m3u8
-#EXTINF:-1 tvg-id="SkySports2.uk" tvg-name="Sky Sports 2 HD" tvg-logo="" group-title="UK: Sports",Sky Sports 2 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/785.m3u8
-#EXTINF:-1 tvg-id="SkySports2.uk" tvg-name="Sky Sports 2 HD*" tvg-logo="" group-title="UK: Sports",Sky Sports 2 HD*
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1214.m3u8
-#EXTINF:-1 tvg-id="SkySports3.uk" tvg-name="Sky Sports 3" tvg-logo="" group-title="UK: Sports",Sky Sports 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/504.m3u8
-#EXTINF:-1 tvg-id="SkySports3.uk" tvg-name="Sky Sports 3 HD" tvg-logo="" group-title="UK: Sports",Sky Sports 3 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/801.m3u8
-#EXTINF:-1 tvg-id="SkySports3.uk" tvg-name="Sky Sports 3 HD*" tvg-logo="" group-title="UK: Sports",Sky Sports 3 HD*
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1215.m3u8
-#EXTINF:-1 tvg-id="SkySports4.uk" tvg-name="Sky Sports 4" tvg-logo="" group-title="UK: Sports",Sky Sports 4
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/503.m3u8
-#EXTINF:-1 tvg-id="SkySports4.uk" tvg-name="Sky Sports 4 HD" tvg-logo="" group-title="UK: Sports",Sky Sports 4 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/787.m3u8
-#EXTINF:-1 tvg-id="SkySports4.uk" tvg-name="Sky Sports 4 HD*" tvg-logo="" group-title="UK: Sports",Sky Sports 4 HD*
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1216.m3u8
-#EXTINF:-1 tvg-id="SkySports5.uk" tvg-name="Sky Sports 5" tvg-logo="" group-title="UK: Sports",Sky Sports 5
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/502.m3u8
-#EXTINF:-1 tvg-id="SkySports5.uk" tvg-name="Sky Sports 5 HD" tvg-logo="" group-title="UK: Sports",Sky Sports 5 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/788.m3u8
-#EXTINF:-1 tvg-id="SkySports5.uk" tvg-name="Sky Sports 5 HD*" tvg-logo="" group-title="UK: Sports",Sky Sports 5 HD*
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1217.m3u8
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="" group-title="UK: Sports",Sky Sports F1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/501.m3u8
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD" tvg-logo="" group-title="UK: Sports",Sky Sports F1 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/789.m3u8
-#EXTINF:-1 tvg-id="Sky Sports F1 HD" tvg-name="Sky Sports F1 HD*" tvg-logo="" group-title="UK: Sports",Sky Sports F1 HD*
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3746.m3u8
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="" group-title="UK: Sports",BT Sport 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/718.m3u8
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="UK: Sports",BT Sport 1 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/790.m3u8
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD*" tvg-logo="" group-title="UK: Sports",BT Sport 1 HD*
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1220.m3u8
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="" group-title="UK: Sports",BT Sport 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/717.m3u8
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="UK: Sports",BT Sport 2 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/791.m3u8
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD*" tvg-logo="" group-title="UK: Sports",BT Sport 2 HD*
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1211.m3u8
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-logo="" group-title="UK: Sports",BT Sport 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/716.m3u8
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="UK: Sports",BT Sport 3 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/792.m3u8
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 HD*" tvg-logo="" group-title="UK: Sports",BT Sport 3 HD*
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1222.m3u8
-#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN" tvg-logo="" group-title="UK: Sports",BT Sport ESPN
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/708.m3u8
-#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN HD" tvg-logo="" group-title="UK: Sports",BT Sport ESPN HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/793.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="British Eurosport 1" tvg-logo="" group-title="UK: Sports",British Eurosport 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/642.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="British Eurosport 1 HD" tvg-logo="" group-title="UK: Sports",British Eurosport 1 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/795.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="British Eurosport 2" tvg-logo="" group-title="UK: Sports",British Eurosport 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/641.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="British Eurosport 2 HD" tvg-logo="" group-title="UK: Sports",British Eurosport 2 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/794.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BoxNation HD" tvg-logo="" group-title="UK: Sports",BoxNation HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/8041.m3u8
-#EXTINF:-1 tvg-id="SetantaIrelandSport.uk" tvg-name="Setanta Sports HD" tvg-logo="" group-title="UK: Sports",Setanta Sports HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7586.m3u8
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV" tvg-logo="" group-title="UK: Sports",MUTV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/564.m3u8
-#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="Chelsea TV" tvg-logo="" group-title="UK: Sports",Chelsea TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/683.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRE | eir Sport 1" tvg-logo="" group-title="UK: Irish TV",IRE | eir Sport 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/646.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRE | eir Sport 2" tvg-logo="" group-title="UK: Irish TV",IRE | eir Sport 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/645.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LFCTV" tvg-logo="" group-title="UK: Sports",LFCTV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/589.m3u8
-#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="At The Races" tvg-logo="" group-title="UK: Sports",At The Races
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/739.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Racing UK" tvg-logo="" group-title="UK: Sports",Racing UK
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/540.m3u8
-#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="BoxNation" tvg-logo="" group-title="UK: Sports",BoxNation
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOTORS TV UK" tvg-logo="" group-title="UK: Sports",MOTORS TV UK
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sports" tvg-logo="" group-title="UK: Sports",Premier Sports
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sports HD" tvg-logo="" group-title="UK: Sports",Premier Sports HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="" group-title="UK: News",Sky News
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/507.m3u8
-#EXTINF:-1 tvg-id="BBCNews.nws" tvg-name="BBC News" tvg-logo="" group-title="UK: News",BBC News
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/735.m3u8
-#EXTINF:-1 tvg-id="CNN.nws" tvg-name="CNN HD" tvg-logo="" group-title="UK: News",CNN HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/676.m3u8
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-name="EURONEWS" tvg-logo="" group-title="UK: News",EURONEWS
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX News" tvg-logo="" group-title="UK: Entertainment",FOX News
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/632.m3u8
-#EXTINF:-1 tvg-id="Discovery.uk" tvg-name="Discovery Channel" tvg-logo="" group-title="UK: Documentaries",Discovery Channel
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/664.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="Animal Planet" tvg-logo="" group-title="UK: Documentaries",Animal Planet
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/741.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="" group-title="UK: Documentaries",Discovery Turbo
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/660.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science" tvg-logo="" group-title="UK: Documentaries",Discovery Science
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/662.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="" group-title="UK: Documentaries",Nat Geo
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="UK: Documentaries",Nat Geo Wild
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/561.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="" group-title="UK: Documentaries",History
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/623.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History" tvg-logo="" group-title="UK: Documentaries",Discovery History
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/663.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YESTERDAY" tvg-logo="" group-title="UK: Entertainment",YESTERDAY
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/456.m3u8
-#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="Crime & Investigation" tvg-logo="" group-title="UK: Documentaries",Crime & Investigation
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/671.m3u8
-#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="Boomerang" tvg-logo="" group-title="UK: Kids",Boomerang
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/723.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Netwrk" tvg-logo="" group-title="UK: Kids",Cartoon Netwrk
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/706.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="UK: Kids",Nickelodeon
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/555.m3u8
-#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="" group-title="UK: Kids",Nicktoons
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/553.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="Disney XD" tvg-logo="" group-title="UK: Kids",Disney XD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/655.m3u8
-#EXTINF:-1 tvg-id="Disney.uk" tvg-name="Disney Channel" tvg-logo="" group-title="UK: Kids",Disney Channel
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/658.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="Disney Junior" tvg-logo="" group-title="UK: Kids",Disney Junior
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/656.m3u8
-#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC HD" tvg-logo="" group-title="UK: Kids",CBBC HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/704.m3u8
-#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" tvg-logo="" group-title="UK: Kids",CBeebies
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" group-title="UK: Kids",Nick Jr.
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/556.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tiny Pop" tvg-logo="" group-title="UK: Kids",Tiny Pop
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/481.m3u8
-#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="Cartoonito" tvg-logo="" group-title="UK: Kids",Cartoonito
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/705.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr Too" tvg-logo="" group-title="UK: Kids",Nick Jr Too
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/558.m3u8
-#EXTINF:-1 tvg-id="CITV.uk" tvg-name="CITV" tvg-logo="" group-title="UK: Kids",CITV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/680.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK | BabyTV" tvg-logo="" group-title="UK: Kids",UK | BabyTV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky News Arabia" tvg-logo="" group-title="UK: News",Sky News Arabia
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/495.m3u8
-#EXTINF:-1 tvg-id="Eden.uk" tvg-name="Eden" tvg-logo="" group-title="UK: Entertainment",Eden
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2690.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network HD" tvg-logo="" group-title="UK: Kids",Cartoon Network HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2717.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | American Dad" tvg-logo="" group-title="24/7 Channels",24/7 | American Dad
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/4642.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Thomas The Tank Engine" tvg-logo="" group-title="24/7 Channels",24/7 | Thomas The Tank Engine
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/4644.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | MTV Catfish: The TV Show" tvg-logo="" group-title="24/7 Channels",24/7 | MTV Catfish: The TV Show
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/4643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Paw Patrol" tvg-logo="" group-title="24/7 Channels",24/7 | Paw Patrol
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/4646.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Shaun The Sheep" tvg-logo="" group-title="24/7 Channels",24/7 | Shaun The Sheep
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/4645.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Simpsons" tvg-logo="" group-title="24/7 Channels",24/7 | The Simpsons
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/4647.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | South Park" tvg-logo="" group-title="24/7 Channels",24/7 | South Park
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Fresh Prince Of Bel Air" tvg-logo="" group-title="24/7 Channels",24/7 | The Fresh Prince Of Bel Air
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Family Guy" tvg-logo="" group-title="24/7 Channels",24/7 | Family Guy
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Friends" tvg-logo="" group-title="24/7 Channels",24/7 | Friends
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6767.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Big Bang Theory" tvg-logo="" group-title="24/7 Channels",24/7 | The Big Bang Theory
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peppa Pig" tvg-logo="" group-title="24/7 Channels",24/7 | Peppa Pig
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Billions" tvg-logo="" group-title="24/7 Channels",24/7 | Billions
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Breaking Bad" tvg-logo="" group-title="24/7 Channels",24/7 | Breaking Bad
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dexter" tvg-logo="" group-title="24/7 Channels",24/7 | Dexter
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Sopranos" tvg-logo="" group-title="24/7 Channels",24/7 | The Sopranos
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | BBC RADIO 1" tvg-logo="" group-title="RADIO",RADIO | BBC RADIO 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | BBC RADIO 1 XTRA" tvg-logo="" group-title="RADIO",RADIO | BBC RADIO 1 XTRA
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | BBC RADIO 2" tvg-logo="" group-title="RADIO",RADIO | BBC RADIO 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | BBC RADIO 3" tvg-logo="" group-title="RADIO",RADIO | BBC RADIO 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | CAPITAL FM" tvg-logo="" group-title="RADIO",RADIO | CAPITAL FM
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | HEART FM" tvg-logo="" group-title="RADIO",RADIO | HEART FM
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7528.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | KIDS MOVIE SOUNDTRACKS" tvg-logo="" group-title="RADIO",RADIO | KIDS MOVIE SOUNDTRACKS
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | KIDS ONLY" tvg-logo="" group-title="RADIO",RADIO | KIDS ONLY
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7533.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | KISS FM" tvg-logo="" group-title="RADIO",RADIO | KISS FM
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | MAGIC FM" tvg-logo="" group-title="RADIO",RADIO | MAGIC FM
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | SMOOTH FM" tvg-logo="" group-title="RADIO",RADIO | SMOOTH FM
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | TALKSPORT" tvg-logo="" group-title="RADIO",RADIO | TALKSPORT
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7532.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | ABSOLUTE 70s" tvg-logo="" group-title="RADIO",RADIO | ABSOLUTE 70s
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | ABSOLUTE 80s" tvg-logo="" group-title="RADIO",RADIO | ABSOLUTE 80s
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9331.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | ABSOLUTE 90s" tvg-logo="" group-title="RADIO",RADIO | ABSOLUTE 90s
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9330.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | BBC FOYLE (IRE)" tvg-logo="" group-title="RADIO",RADIO | BBC FOYLE (IRE)
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9340.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | BBC ULSTER (IRE)" tvg-logo="" group-title="RADIO",RADIO | BBC ULSTER (IRE)
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9339.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | DOWNTOWN COUNTRY (IRE)" tvg-logo="" group-title="RADIO",RADIO | DOWNTOWN COUNTRY (IRE)
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | HIGHLAND RADIO (IRE)" tvg-logo="" group-title="RADIO",RADIO | HIGHLAND RADIO (IRE)
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9337.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | RTE 1 (IRE)" tvg-logo="" group-title="RADIO",RADIO | RTE 1 (IRE)
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9336.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | RTE 2 (IRE)" tvg-logo="" group-title="RADIO",RADIO | RTE 2 (IRE)
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9335.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | RTE GOLD (IRE)" tvg-logo="" group-title="RADIO",RADIO | RTE GOLD (IRE)
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO | TODAY FM (IRE)" tvg-logo="" group-title="RADIO",RADIO | TODAY FM (IRE)
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9333.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK | Dave Ja Vu" tvg-logo="" group-title="UK: Entertainment",UK | Dave Ja Vu
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9280.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRE | RTE News NOW" tvg-logo="" group-title="UK: Irish TV",IRE | RTE News NOW
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3745.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRE | RTE One" tvg-logo="" group-title="UK: Irish TV",IRE | RTE One
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3743.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRE | RTE Two HD" tvg-logo="" group-title="UK: Irish TV",IRE | RTE Two HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3744.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRE | RTEjr" tvg-logo="" group-title="UK: Irish TV",IRE | RTEjr
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRE | BBC Northern Ireland" tvg-logo="" group-title="UK: Irish TV",IRE | BBC Northern Ireland
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7648.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRE | Oireachtas" tvg-logo="" group-title="UK: Irish TV",IRE | Oireachtas
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7642.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRE | TG4" tvg-logo="" group-title="UK: Irish TV",IRE | TG4
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7647.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRE | TV3" tvg-logo="" group-title="UK: Irish TV",IRE | TV3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7646.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRE | Irish TV" tvg-logo="" group-title="UK: Irish TV",IRE | Irish TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRE | UTV" tvg-logo="" group-title="UK: Irish TV",IRE | UTV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7645.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRE | UTV HD" tvg-logo="" group-title="UK: Irish TV",IRE | UTV HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7644.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRE | UTV IE" tvg-logo="" group-title="UK: Irish TV",IRE | UTV IE
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Atlantic HD" tvg-logo="" group-title="UK: Entertainment",UK | Sky Atlantic HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CELTIC TV [LIVE DURING SPL]" tvg-logo="" group-title="UK: Sports",CELTIC TV [LIVE DURING SPL]
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RANGERS TV [LIVE DURING SPL]" tvg-logo="" group-title="UK: Sports",RANGERS TV [LIVE DURING SPL]
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="" group-title="VIP: More Sports",Arena Sport 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/869.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2" tvg-logo="" group-title="VIP: More Sports",Arena Sport 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/870.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3" tvg-logo="" group-title="VIP: More Sports",Arena Sport 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/871.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4" tvg-logo="" group-title="VIP: More Sports",Arena Sport 4
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/872.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5" tvg-logo="" group-title="VIP: More Sports",Arena Sport 5
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/873.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1" tvg-logo="" group-title="VIP: 3PM EPL",Astro Supersports 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/4451.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 2" tvg-logo="" group-title="VIP: 3PM EPL",Astro Supersports 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/4452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 3" tvg-logo="" group-title="VIP: 3PM EPL",Astro Supersports 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/4453.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 4" tvg-logo="" group-title="VIP: 3PM EPL",Astro Supersports 4
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/4454.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport France 1" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport France 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/850.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport France 2" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport France 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/851.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport France 3" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport France 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/852.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports USA HD" tvg-logo="" group-title="VIP: beIN Sports",beIN Sports USA HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/835.m3u8
-#EXTINF:-1 tvg-id="1HD" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport 1 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/836.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport 2 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/837.m3u8
-#EXTINF:-1 tvg-id="HD3" tvg-name="beIN Sport 3 HD" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport 3 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/838.m3u8
-#EXTINF:-1 tvg-id="HD4" tvg-name="beIN Sport 4 HD" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport 4 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/839.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 HD" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport 5 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/840.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 HD" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport 6 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/841.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 HD" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport 7 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/842.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 HD" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport 8 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 HD" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport 9 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/844.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 10 HD" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport 10 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 11 HD" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport 11 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 12 HD" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport 12 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/847.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 14 HD" tvg-logo="" group-title="VIP: beIN Sports",beIN Sport 14 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/849.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 1 HD" tvg-logo="" group-title="VIP: Fox Sports",Fox Sport 1 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/824.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 2 HD" tvg-logo="" group-title="VIP: Fox Sports",Fox Sport 2 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/825.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 1 Malaysia" tvg-logo="" group-title="VIP: Fox Sports",Fox Sport 1 Malaysia
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/828.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 2 Thailand" tvg-logo="" group-title="VIP: Fox Sports",Fox Sport 2 Thailand
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/827.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 1 HD NL" tvg-logo="" group-title="VIP: Fox Sports",Fox Sport 1 HD NL
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/830.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 2 HD NL" tvg-logo="" group-title="VIP: Fox Sports",Fox Sport 2 HD NL
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/831.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3 HD NL" tvg-logo="" group-title="VIP: Fox Sports",Fox Sport 3 HD NL
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/832.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 4 HD NL" tvg-logo="" group-title="VIP: Fox Sports",Fox Sport 4 HD NL
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/833.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 5 HD NL" tvg-logo="" group-title="VIP: Fox Sports",Fox Sport 5 HD NL
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/834.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ligTV 1" tvg-logo="" group-title="VIP: 3PM EPL",ligTV 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ligTV 2" tvg-logo="" group-title="VIP: 3PM EPL",ligTV 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/884.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ligTV 3" tvg-logo="" group-title="VIP: 3PM EPL",ligTV 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/885.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Moto GP: Live 1" tvg-logo="" group-title="VIP: More Sports",Moto GP: Live 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Moto GP: Live 2" tvg-logo="" group-title="VIP: More Sports",Moto GP: Live 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1146.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Moto GP: Live 3" tvg-logo="" group-title="VIP: More Sports",Moto GP: Live 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NBA TV" tvg-logo="" group-title="VIP: NBA League Pass Live",VIP | NBA TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/861.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NBA League Pass Live 1 HD" tvg-logo="" group-title="VIP: NBA League Pass Live",VIP | NBA League Pass Live 1 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NBA League Pass Live 2 HD" tvg-logo="" group-title="VIP: NBA League Pass Live",VIP | NBA League Pass Live 2 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NBA League Pass Live 3 HD" tvg-logo="" group-title="VIP: NBA League Pass Live",VIP | NBA League Pass Live 3 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NBA League Pass Live 4 HD" tvg-logo="" group-title="VIP: NBA League Pass Live",VIP | NBA League Pass Live 4 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NBA League Pass Live 5 HD" tvg-logo="" group-title="VIP: NBA League Pass Live",VIP | NBA League Pass Live 5 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NBA League Pass Live 6 HD" tvg-logo="" group-title="VIP: NBA League Pass Live",VIP | NBA League Pass Live 6 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NBA League Pass Live 7 HD" tvg-logo="" group-title="VIP: NBA League Pass Live",VIP | NBA League Pass Live 7 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NBA League Pass Live 8 HD" tvg-logo="" group-title="VIP: NBA League Pass Live",VIP | NBA League Pass Live 8 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NBA League Pass Live 9 HD" tvg-logo="" group-title="VIP: NBA League Pass Live",VIP | NBA League Pass Live 9 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NBA League Pass Live 10 HD" tvg-logo="" group-title="VIP: NBA League Pass Live",VIP | NBA League Pass Live 10 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NBA League Pass Live 11 HD" tvg-logo="" group-title="VIP: NBA League Pass Live",VIP | NBA League Pass Live 11 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Goal Rush" tvg-logo="" group-title="VIP: More Sports",NBC Goal Rush
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game Pass *Starts Sept 7th*" tvg-logo="" group-title="USA/CA: Entertainment",USA | NFL Game Pass *Starts Sept 7th*
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1017.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NHL Network HD" tvg-logo="" group-title="VIP: NHL Centre Ice HD",VIP | NHL Network HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/860.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITV Box Office PPV (PPV Only)" tvg-logo="" group-title="VIP: PPV & Live Events",ITV Box Office PPV (PPV Only)
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1183.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYNET Sports 1" tvg-logo="" group-title="VIP: 3PM EPL",SKYNET Sports 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYNET Sports 2" tvg-logo="" group-title="VIP: 3PM EPL",SKYNET Sports 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYNET Sports 3" tvg-logo="" group-title="VIP: 3PM EPL",SKYNET Sports 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYNET Sports 4" tvg-logo="" group-title="VIP: 3PM EPL",SKYNET Sports 4
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYNET Sports 5" tvg-logo="" group-title="VIP: 3PM EPL",SKYNET Sports 5
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKYNET Sports 6" tvg-logo="" group-title="VIP: 3PM EPL",SKYNET Sports 6
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SportKlub 1 HD" tvg-logo="" group-title="VIP: More Sports",SportKlub 1 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SportKlub 2 HD" tvg-logo="" group-title="VIP: More Sports",SportKlub 2 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1025.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SportKlub 3 HD" tvg-logo="" group-title="VIP: More Sports",SportKlub 3 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SportKlub 4 HD" tvg-logo="" group-title="VIP: More Sports",SportKlub 4 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SportKlub 5 HD" tvg-logo="" group-title="VIP: More Sports",SportKlub 5 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SportKlub 6 HD" tvg-logo="" group-title="VIP: More Sports",SportKlub 6 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAN | SportsNet 360 HD" tvg-logo="" group-title="VIP: 3PM EPL",CAN | SportsNet 360 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/857.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAN | SportsNet One HD" tvg-logo="" group-title="VIP: 3PM EPL",CAN | SportsNet One HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/856.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAN | SportsNet World HD" tvg-logo="" group-title="VIP: 3PM EPL",CAN | SportsNet World HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/854.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAN | SportsNet West HD" tvg-logo="" group-title="VIP: 3PM EPL",CAN | SportsNet West HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/853.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="" group-title="VIP: More Sports",Star Sports 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/802.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="" group-title="VIP: More Sports",Star Sports 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 3" tvg-logo="" group-title="VIP: More Sports",Star Sports 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 4" tvg-logo="" group-title="VIP: More Sports",Star Sports 4
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAN | TSN 1 HD" tvg-logo="" group-title="VIP: 3PM EPL",CAN | TSN 1 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/868.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAN | TSN 2 HD" tvg-logo="" group-title="VIP: 3PM EPL",CAN | TSN 2 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/867.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAN | TSN 3 HD" tvg-logo="" group-title="VIP: 3PM EPL",CAN | TSN 3 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/866.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAN | TSN 4 HD" tvg-logo="" group-title="VIP: 3PM EPL",CAN | TSN 4 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/865.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAN | TSN 5 HD" tvg-logo="" group-title="VIP: 3PM EPL",CAN | TSN 5 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/864.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network HD" tvg-logo="" group-title="VIP: More Sports",WWE Network HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/862.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport eXtra 1" tvg-logo="" group-title="VIP: More Sports",Ziggo Sport eXtra 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/894.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN sports 1" tvg-logo="" group-title="VIP: More Sports",OSN sports 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN sports 2" tvg-logo="" group-title="VIP: More Sports",OSN sports 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/807.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN sports 3" tvg-logo="" group-title="VIP: More Sports",OSN sports 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/808.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN sports 4" tvg-logo="" group-title="VIP: More Sports",OSN sports 4
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/809.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 1" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 2" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 3" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 4" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 4
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 5" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 5
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3310.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 6" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 6
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 7" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 7
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 8" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 8
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3313.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sport 1" tvg-logo="" group-title="VIP: 3PM EPL",FR: SFR Sport 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sport 2" tvg-logo="" group-title="VIP: 3PM EPL",FR: SFR Sport 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sport 3" tvg-logo="" group-title="VIP: 3PM EPL",FR: SFR Sport 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 10" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 10
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3732.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 11" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 11
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3733.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 12" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 12
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 13" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 13
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 14" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 14
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3736.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 15" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 15
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 16" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 16
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: MLB GAME PASS LIVE 9" tvg-logo="" group-title="VIP: MLB Game Pass Live",VIP: MLB GAME PASS LIVE 9
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3731.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="William Hill TV" tvg-logo="" group-title="UK: Sports",William Hill TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS BOX OFFICE" tvg-logo="" group-title="VIP: PPV & Live Events",SKY SPORTS BOX OFFICE
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV 1 |" tvg-logo="" group-title="VIP: PPV & Live Events",PPV 1 |
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7650.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV 2 |" tvg-logo="" group-title="VIP: PPV & Live Events",PPV 2 |
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7651.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV 3 |" tvg-logo="" group-title="VIP: PPV & Live Events",PPV 3 |
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7652.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV 4 |" tvg-logo="" group-title="VIP: PPV & Live Events",PPV 4 |
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7653.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV 5 |" tvg-logo="" group-title="VIP: PPV & Live Events",PPV 5 |
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7654.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC XTRA EPL 1" tvg-logo="" group-title="VIP: NBC XTRA EPL Live",NBC XTRA EPL 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC XTRA EPL 2" tvg-logo="" group-title="VIP: NBC XTRA EPL Live",NBC XTRA EPL 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC XTRA EPL 3" tvg-logo="" group-title="VIP: NBC XTRA EPL Live",NBC XTRA EPL 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC XTRA EPL 4" tvg-logo="" group-title="VIP: NBC XTRA EPL Live",NBC XTRA EPL 4
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC XTRA EPL 5" tvg-logo="" group-title="VIP: NBC XTRA EPL Live",NBC XTRA EPL 5
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC XTRA EPL 6" tvg-logo="" group-title="VIP: NBC XTRA EPL Live",NBC XTRA EPL 6
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC XTRA EPL 7" tvg-logo="" group-title="VIP: NBC XTRA EPL Live",NBC XTRA EPL 7
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC XTRA EPL 8" tvg-logo="" group-title="VIP: NBC XTRA EPL Live",NBC XTRA EPL 8
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7985.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NHL Centre Ice HD 7" tvg-logo="" group-title="VIP: NHL Centre Ice HD",VIP | NHL Centre Ice HD 7
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2681.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NHL Centre Ice HD 1" tvg-logo="" group-title="VIP: NHL Centre Ice HD",VIP | NHL Centre Ice HD 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2675.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NHL Centre Ice HD 10" tvg-logo="" group-title="VIP: NHL Centre Ice HD",VIP | NHL Centre Ice HD 10
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2684.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NHL Centre Ice HD 11" tvg-logo="" group-title="VIP: NHL Centre Ice HD",VIP | NHL Centre Ice HD 11
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2685.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NHL Centre Ice HD 12" tvg-logo="" group-title="VIP: NHL Centre Ice HD",VIP | NHL Centre Ice HD 12
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2686.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NHL Centre Ice HD 13" tvg-logo="" group-title="VIP: NHL Centre Ice HD",VIP | NHL Centre Ice HD 13
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NHL Centre Ice HD 2" tvg-logo="" group-title="VIP: NHL Centre Ice HD",VIP | NHL Centre Ice HD 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2676.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NHL Centre Ice HD 3" tvg-logo="" group-title="VIP: NHL Centre Ice HD",VIP | NHL Centre Ice HD 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2677.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NHL Centre Ice HD 4" tvg-logo="" group-title="VIP: NHL Centre Ice HD",VIP | NHL Centre Ice HD 4
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2678.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NHL Centre Ice HD 5" tvg-logo="" group-title="VIP: NHL Centre Ice HD",VIP | NHL Centre Ice HD 5
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2679.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NHL Centre Ice HD 6" tvg-logo="" group-title="VIP: NHL Centre Ice HD",VIP | NHL Centre Ice HD 6
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2680.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NHL Centre Ice HD 8" tvg-logo="" group-title="VIP: NHL Centre Ice HD",VIP | NHL Centre Ice HD 8
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2682.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP | NHL Centre Ice HD 9" tvg-logo="" group-title="VIP: NHL Centre Ice HD",VIP | NHL Centre Ice HD 9
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/2683.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | UniMas" tvg-logo="" group-title="USA/CA: Entertainment",USA | UniMas
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/3686.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAN | SportsNet East HD*" tvg-logo="" group-title="VIP: 3PM EPL",CAN | SportsNet East HD*
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/4461.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAN | SportsNet One HD*" tvg-logo="" group-title="VIP: 3PM EPL",CAN | SportsNet One HD*
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/4460.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAN | SportsNet Ontario" tvg-logo="" group-title="VIP: 3PM EPL",CAN | SportsNet Ontario
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/4465.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAN | SportsNet Pacific HD" tvg-logo="" group-title="VIP: 3PM EPL",CAN | SportsNet Pacific HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/4464.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAN | SportsNet World" tvg-logo="" group-title="VIP: 3PM EPL",CAN | SportsNet World
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/4462.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |   My13" tvg-logo="" group-title="USA/CA: Entertainment",USA |   My13
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6214.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  A&E" tvg-logo="" group-title="USA/CA: Entertainment",USA |  A&E
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  A&E HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  A&E HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6313.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  A&E TV HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  A&E TV HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  ABC HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  ABC HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Accuweather" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Accuweather
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  AFN Movie" tvg-logo="" group-title="USA/CA: Entertainment",USA |  AFN Movie
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  AFN News" tvg-logo="" group-title="USA/CA: Entertainment",USA |  AFN News
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6308.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  AFN Prime Atlantic" tvg-logo="" group-title="USA/CA: Entertainment",USA |  AFN Prime Atlantic
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6307.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  AFN Prime Pacific" tvg-logo="" group-title="USA/CA: Entertainment",USA |  AFN Prime Pacific
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6306.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  AFN Pulse" tvg-logo="" group-title="USA/CA: Entertainment",USA |  AFN Pulse
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  AFN Sports" tvg-logo="" group-title="USA/CA: Entertainment",USA |  AFN Sports
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  AFN Sports 2" tvg-logo="" group-title="USA/CA: Entertainment",USA |  AFN Sports 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  AMC HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  AMC HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6301.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Animal Planet HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Animal Planet HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Bein Sports USA HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Bein Sports USA HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6299.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  BET" tvg-logo="" group-title="USA/CA: Entertainment",USA |  BET
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6229.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Bloomberg" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Bloomberg
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Bravo" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Bravo
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  BRAVO HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  BRAVO HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  BTN Sport HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  BTN Sport HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6296.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Buzzer" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Buzzer
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Cartoon network HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Cartoon network HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  CBS 47 Jacksonville FL" tvg-logo="" group-title="USA/CA: Entertainment",USA |  CBS 47 Jacksonville FL
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6226.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Cinemax 5 StarMax" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Cinemax 5 StarMax
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6293.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Cinemax East" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Cinemax East
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6292.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  CNBC HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  CNBC HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6291.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  CNN HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  CNN HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  COMEDY CENTRAL HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  COMEDY CENTRAL HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6289.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Cooking Channel HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Cooking Channel HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  CSPAN3" tvg-logo="" group-title="USA/CA: Entertainment",USA |  CSPAN3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  CW HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  CW HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6288.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Discovery Channel HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Discovery Channel HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6287.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Discovery Science HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Discovery Science HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6286.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Disney Chnl" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Disney Chnl
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6285.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  DIY Network" tvg-logo="" group-title="USA/CA: Entertainment",USA |  DIY Network
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  E! Entertainment" tvg-logo="" group-title="USA/CA: Entertainment",USA |  E! Entertainment
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  ESPN" tvg-logo="" group-title="USA/CA: Entertainment",USA |  ESPN
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6284.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  ESPN 2" tvg-logo="" group-title="USA/CA: Entertainment",USA |  ESPN 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  ESPN 2 HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  ESPN 2 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  ESPN HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  ESPN HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Fight Network" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Fight Network
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6280.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Fight Network / MMA Network" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Fight Network / MMA Network
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Food Network HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Food Network HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  FOX 11 News (Los Angeles)" tvg-logo="" group-title="USA/CA: Entertainment",USA |  FOX 11 News (Los Angeles)
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6216.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  FOX 13 News (Tampa Bay)" tvg-logo="" group-title="USA/CA: Entertainment",USA |  FOX 13 News (Tampa Bay)
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6215.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Fox 5 Washington DC" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Fox 5 Washington DC
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6223.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Fox HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Fox HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6217.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Fox Sports 1 HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Fox Sports 1 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6278.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Fox Sports 2 HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Fox Sports 2 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Freeform HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Freeform HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  FX HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  FX HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6275.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  FXX" tvg-logo="" group-title="USA/CA: Entertainment",USA |  FXX
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6274.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  GetTv" tvg-logo="" group-title="USA/CA: Entertainment",USA |  GetTv
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  H2" tvg-logo="" group-title="USA/CA: Entertainment",USA |  H2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  HBO" tvg-logo="" group-title="USA/CA: Entertainment",USA |  HBO
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6272.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  HBO Comedy" tvg-logo="" group-title="USA/CA: Entertainment",USA |  HBO Comedy
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6271.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  HBO Family HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  HBO Family HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  HBO HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  HBO HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6269.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  HBO SIGNATURE" tvg-logo="" group-title="USA/CA: Entertainment",USA |  HBO SIGNATURE
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6268.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  HGTV HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  HGTV HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6267.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  HIFI" tvg-logo="" group-title="USA/CA: Entertainment",USA |  HIFI
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6266.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  HISTORY" tvg-logo="" group-title="USA/CA: Entertainment",USA |  HISTORY
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  HSN 1 HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  HSN 1 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  IFC HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  IFC HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Investigation Discovery" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Investigation Discovery
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6264.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Investigation Discovery HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Investigation Discovery HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  KTLA 5" tvg-logo="" group-title="USA/CA: Entertainment",USA |  KTLA 5
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  LIFE TIME" tvg-logo="" group-title="USA/CA: Entertainment",USA |  LIFE TIME
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6263.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Lifetime" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Lifetime
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6262.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  MLB Network" tvg-logo="" group-title="USA/CA: Entertainment",USA |  MLB Network
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6261.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  MSNBC" tvg-logo="" group-title="USA/CA: Entertainment",USA |  MSNBC
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  MTV HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  MTV HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  NASA Channel" tvg-logo="" group-title="USA/CA: Entertainment",USA |  NASA Channel
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  NAT GEO HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  NAT GEO HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6260.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  National Geographic" tvg-logo="" group-title="USA/CA: Entertainment",USA |  National Geographic
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6259.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  NBA TV" tvg-logo="" group-title="USA/CA: Entertainment",USA |  NBA TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  NBC 10" tvg-logo="" group-title="USA/CA: Entertainment",USA |  NBC 10
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  NBC Golf" tvg-logo="" group-title="USA/CA: Entertainment",USA |  NBC Golf
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6257.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  NBC SPORT" tvg-logo="" group-title="USA/CA: Entertainment",USA |  NBC SPORT
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6256.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  NFL Network HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  NFL Network HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  NFL NOW HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  NFL NOW HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  NHL Network" tvg-logo="" group-title="USA/CA: Entertainment",USA |  NHL Network
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6253.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  NICKELODEN HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  NICKELODEN HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6252.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Outdoor Channel" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Outdoor Channel
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  OWN HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  OWN HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6251.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  PBS America" tvg-logo="" group-title="USA/CA: Entertainment",USA |  PBS America
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  QVC" tvg-logo="" group-title="USA/CA: Entertainment",USA |  QVC
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  ShowTime" tvg-logo="" group-title="USA/CA: Entertainment",USA |  ShowTime
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6249.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  ShowTime 2 HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  ShowTime 2 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6248.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Showtime Extreme" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Showtime Extreme
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Showtime Showcase" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Showtime Showcase
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Showtime West" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Showtime West
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6245.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Spike HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Spike HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Sportsnet East HD" tvg-logo="" group-title="VIP: 3PM EPL",USA |  Sportsnet East HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Starz Cinema HD--" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Starz Cinema HD--
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6243.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Starz Comedy" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Starz Comedy
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6242.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Starz East" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Starz East
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6241.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  STARZ EDGE HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  STARZ EDGE HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6240.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Starz Encore" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Starz Encore
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6239.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  SYFY HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  SYFY HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6238.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  TBS HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  TBS HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6237.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  The Weather Channel" tvg-logo="" group-title="USA/CA: Entertainment",USA |  The Weather Channel
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6236.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  TLC HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  TLC HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  TNT" tvg-logo="" group-title="USA/CA: Entertainment",USA |  TNT
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Travel Channel" tvg-logo="" group-title="USA/CA: Entertainment",USA |  Travel Channel
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  TRU TV" tvg-logo="" group-title="USA/CA: Entertainment",USA |  TRU TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6233.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  USA Network HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  USA Network HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6232.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  VH1" tvg-logo="" group-title="USA/CA: Entertainment",USA |  VH1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  WGN America" tvg-logo="" group-title="USA/CA: Entertainment",USA |  WGN America
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6220.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA |  WWE HD" tvg-logo="" group-title="USA/CA: Entertainment",USA |  WWE HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6219.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBCSN (direct)" tvg-logo="" group-title="USA/CA: Entertainment",USA | NBCSN (direct)
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | The Florida Channel" tvg-logo="" group-title="USA/CA: Entertainment",USA | The Florida Channel
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | WWE Network" tvg-logo="" group-title="USA/CA: Entertainment",USA | WWE Network
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/6197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | CMT (Country Music Television)" tvg-logo="" group-title="USA/CA: Entertainment",USA | CMT (Country Music Television)
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | &TV" tvg-logo="" group-title="IN: Indian TV",IND | &TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7553.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | AsiaNet Movies" tvg-logo="" group-title="IN: Indian TV",IND | AsiaNet Movies
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | AsiaNet News" tvg-logo="" group-title="IN: Indian TV",IND | AsiaNet News
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | AsiaNet Plus" tvg-logo="" group-title="IN: Indian TV",IND | AsiaNet Plus
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7580.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | AsiaNet TV" tvg-logo="" group-title="IN: Indian TV",IND | AsiaNet TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7581.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | B4U Aflam Arabic" tvg-logo="" group-title="IN: Indian TV",IND | B4U Aflam Arabic
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7555.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | B4U Movies" tvg-logo="" group-title="IN: Indian TV",IND | B4U Movies
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7556.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | B4U Music" tvg-logo="" group-title="IN: Indian TV",IND | B4U Music
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7557.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | B4U Plus" tvg-logo="" group-title="IN: Indian TV",IND | B4U Plus
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7558.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Cartoon Network Hindi" tvg-logo="" group-title="IN: Indian TV",IND | Cartoon Network Hindi
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Colors" tvg-logo="" group-title="IN: Indian TV",IND | Colors
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7563.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | DESI Beats" tvg-logo="" group-title="IN: Indian TV",IND | DESI Beats
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Discovery" tvg-logo="" group-title="IN: Indian TV",IND | Discovery
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Discovery Turbo India" tvg-logo="" group-title="IN: Indian TV",IND | Discovery Turbo India
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Food Food" tvg-logo="" group-title="IN: Indian TV",IND | Food Food
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Jaya Max Tamil" tvg-logo="" group-title="IN: Indian TV",IND | Jaya Max Tamil
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7560.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Jaya MAX UK" tvg-logo="" group-title="IN: Indian TV",IND | Jaya MAX UK
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7554.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Jaya Movies Tamil" tvg-logo="" group-title="IN: Indian TV",IND | Jaya Movies Tamil
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7561.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Life OK UK" tvg-logo="" group-title="IN: Indian TV",IND | Life OK UK
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7565.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Sony ESPN" tvg-logo="" group-title="IN: Indian TV",IND | Sony ESPN
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7583.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Sony SAB" tvg-logo="" group-title="IN: Indian TV",IND | Sony SAB
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7584.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Sony SetMax" tvg-logo="" group-title="IN: Indian TV",IND | Sony SetMax
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7582.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Sony TV" tvg-logo="" group-title="IN: Indian TV",IND | Sony TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Star Gold" tvg-logo="" group-title="IN: Indian TV",IND | Star Gold
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Star Plus" tvg-logo="" group-title="IN: Indian TV",IND | Star Plus
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Star Plus UK" tvg-logo="" group-title="IN: Indian TV",IND | Star Plus UK
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Star Vijay" tvg-logo="" group-title="IN: Indian TV",IND | Star Vijay
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7552.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | TEN 1" tvg-logo="" group-title="IN: Indian TV",IND | TEN 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | TEN 2" tvg-logo="" group-title="IN: Indian TV",IND | TEN 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | TEN 3" tvg-logo="" group-title="IN: Indian TV",IND | TEN 3
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | TEN Golf" tvg-logo="" group-title="IN: Indian TV",IND | TEN Golf
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | UTV Movies" tvg-logo="" group-title="IN: Indian TV",IND | UTV Movies
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Zee Action" tvg-logo="" group-title="IN: Indian TV",IND | Zee Action
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Zee Anmol" tvg-logo="" group-title="IN: Indian TV",IND | Zee Anmol
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Zee Bollywood" tvg-logo="" group-title="IN: Indian TV",IND | Zee Bollywood
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7572.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Zee Smile" tvg-logo="" group-title="IN: Indian TV",IND | Zee Smile
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Zee Cinema" tvg-logo="" group-title="IN: Indian TV",IND | Zee Cinema
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Zee Living" tvg-logo="" group-title="IN: Indian TV",IND | Zee Living
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7569.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Zee Marathi HD" tvg-logo="" group-title="IN: Indian TV",IND | Zee Marathi HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7566.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Zee News" tvg-logo="" group-title="IN: Indian TV",IND | Zee News
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Zee Punjabi" tvg-logo="" group-title="IN: Indian TV",IND | Zee Punjabi
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Zee Talkies" tvg-logo="" group-title="IN: Indian TV",IND | Zee Talkies
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7574.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Zee TV APAC" tvg-logo="" group-title="IN: Indian TV",IND | Zee TV APAC
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7567.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Zee TV HD" tvg-logo="" group-title="IN: Indian TV",IND | Zee TV HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7577.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | ZING" tvg-logo="" group-title="IN: Indian TV",IND | ZING
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | ZOOM" tvg-logo="" group-title="IN: Indian TV",IND | ZOOM
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7564.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | MTV India" tvg-logo="" group-title="IN: Indian TV",IND | MTV India
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7587.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IND | Rishtey Europe" tvg-logo="" group-title="IN: Indian TV",IND | Rishtey Europe
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7588.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ISLAM | AlMajd Islamic" tvg-logo="" group-title="ISL: Islamic TV",ISLAM | AlMajd Islamic
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/8003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ISLAM | Basma" tvg-logo="" group-title="ISL: Islamic TV",ISLAM | Basma
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/8002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ISLAM | Documentary" tvg-logo="" group-title="ISL: Islamic TV",ISLAM | Documentary
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/8001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ISLAM | Hadeeth" tvg-logo="" group-title="ISL: Islamic TV",ISLAM | Hadeeth
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/8000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ISLAM | Majd News" tvg-logo="" group-title="ISL: Islamic TV",ISLAM | Majd News
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ISLAM | Masah" tvg-logo="" group-title="ISL: Islamic TV",ISLAM | Masah
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ISLAM | Nature" tvg-logo="" group-title="ISL: Islamic TV",ISLAM | Nature
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ISLAM | Qawda" tvg-logo="" group-title="ISL: Islamic TV",ISLAM | Qawda
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ISLAM | Quran" tvg-logo="" group-title="ISL: Islamic TV",ISLAM | Quran
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ISLAM | Taghareed" tvg-logo="" group-title="ISL: Islamic TV",ISLAM | Taghareed
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK |  DIN NEWS" tvg-logo="" group-title="Pakistan",PK |  DIN NEWS
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | 92 News HD" tvg-logo="" group-title="Pakistan",PK | 92 News HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | A PLUS" tvg-logo="" group-title="Pakistan",PK | A PLUS
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9371.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | AAJ NEWS" tvg-logo="" group-title="Pakistan",PK | AAJ NEWS
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | Ary News" tvg-logo="" group-title="Pakistan",PK | Ary News
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | ARY ZAUQ" tvg-logo="" group-title="Pakistan",PK | ARY ZAUQ
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | ATV" tvg-logo="" group-title="Pakistan",PK | ATV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | AVT KHYBER" tvg-logo="" group-title="Pakistan",PK | AVT KHYBER
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | CAPITAL NEWS" tvg-logo="" group-title="Pakistan",PK | CAPITAL NEWS
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | DUNYA News" tvg-logo="" group-title="Pakistan",PK | DUNYA News
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | EXPRESS ENTERTIANMENT" tvg-logo="" group-title="Pakistan",PK | EXPRESS ENTERTIANMENT
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | EXPRESS NEWS" tvg-logo="" group-title="Pakistan",PK | EXPRESS NEWS
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | Geo Kahani" tvg-logo="" group-title="Pakistan",PK | Geo Kahani
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9364.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | GEO NEWS" tvg-logo="" group-title="Pakistan",PK | GEO NEWS
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | GEO SUPER PK" tvg-logo="" group-title="Pakistan",PK | GEO SUPER PK
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | GEO TEZ" tvg-logo="" group-title="Pakistan",PK | GEO TEZ
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | HUM TV" tvg-logo="" group-title="Pakistan",PK | HUM TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | ISLAM TV" tvg-logo="" group-title="Pakistan",PK | ISLAM TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | KAY 2" tvg-logo="" group-title="Pakistan",PK | KAY 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9362.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | MASALA TV" tvg-logo="" group-title="Pakistan",PK | MASALA TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | METRO NEWS" tvg-logo="" group-title="Pakistan",PK | METRO NEWS
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | NEWS ONE" tvg-logo="" group-title="Pakistan",PK | NEWS ONE
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9358.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | PTV HOME" tvg-logo="" group-title="Pakistan",PK | PTV HOME
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | PTV NEWS" tvg-logo="" group-title="Pakistan",PK | PTV NEWS
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | PTV SPORTS" tvg-logo="" group-title="Pakistan",PK | PTV SPORTS
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9356.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | ROZE NEWS" tvg-logo="" group-title="Pakistan",PK | ROZE NEWS
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK | URDU 1" tvg-logo="" group-title="Pakistan",PK | URDU 1
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/9354.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | HOT" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | HOT
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/752.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | AnySex" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | AnySex
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/453.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Shades XXX FHD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | Shades XXX FHD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | DUSK" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | DUSK
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/451.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | New Sensations 1 HD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | New Sensations 1 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | New Sensations 2 HD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | New Sensations 2 HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/449.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Sinful 1 FHD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | Sinful 1 FHD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Sinful 2 FHD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | Sinful 2 FHD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/447.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Swinger 1 FHD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | Swinger 1 FHD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/446.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Swingers 2 FHD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Swingers 2 FHD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Swingers 3 FHD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Swingers 3 FHD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Female Fake Taxi 1 FHD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Female Fake Taxi 1 FHD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Female Fake Taxi 2 FHD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Female Fake Taxi 2 FHD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Female Fake Taxi 3 FHD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Female Fake Taxi 3 FHD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Female Fake Taxi 4 FHD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Female Fake Taxi 4 FHD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1192.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I MyFirstPublic" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I MyFirstPublic
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Penthouse" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Penthouse
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Penthouse TV" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Penthouse TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Naked News" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Naked News
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1364.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Meidan Van Holland Hard" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Meidan Van Holland Hard
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Hustler HD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Hustler HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Cento X Cento" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Cento X Cento
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Free X TV" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Free X TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Brazzers TV" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Brazzers TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Nubiles Casting" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Nubiles Casting
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Penthouse HD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Penthouse HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I PinkO TV" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I PinkO TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I Reality Kings TV" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I Reality Kings TV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX I SuperOne" tvg-logo="" group-title="XXX: Adult Only 18+",XXX I SuperOne
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/1194.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | JasminTV" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | JasminTV
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7358.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Porn Pros 2 FHD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | Porn Pros 2 FHD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7356.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Porn Pros FHD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | Porn Pros FHD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Erotic 2" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | Erotic 2
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Playboy" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | Playboy
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Redlight HD" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | Redlight HD
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Teen Models" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | Teen Models
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7589.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K PORN 25" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | 4K PORN 25
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7767.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K PORN 26" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | 4K PORN 26
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | 4K PORN 47" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | 4K PORN 47
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7769.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | 18Yoga.com" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | 18Yoga.com
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | ButGO" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | ButGO
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Candy" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | Candy
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Dorcel Club" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | Dorcel Club
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX | EvilAngel.com" tvg-logo="" group-title="XXX: Adult Only 18+",XXX | EvilAngel.com
-http://ghosttechuk.ddns.net:25461/live/slats/brandon/7989.m3u8
-
+Channel name:BBC One
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/734.m3u8
+Channel name:BBC One HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/733.m3u8
+Channel name:BBC Two
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/730.m3u8
+Channel name:BBC Two HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/729.m3u8
+Channel name:ITV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/610.m3u8
+Channel name:ITV HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/603.m3u8
+Channel name:ITV FHD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1174.m3u8
+Channel name:Channel 4
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/695.m3u8
+Channel name:Channel 4 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/694.m3u8
+Channel name:Channel 5
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/692.m3u8
+Channel name:Channel 5 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/690.m3u8
+Channel name:Sky One
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/498.m3u8
+Channel name:Sky One HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3769.m3u8
+Channel name:Sky Two
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/496.m3u8
+Channel name:Sky Living
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/509.m3u8
+Channel name:Sky Living HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/754.m3u8
+Channel name:Sky Atlantic
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/523.m3u8
+Channel name:Sky Arts
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2720.m3u8
+Channel name:Dave
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/668.m3u8
+Channel name:Dave HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/757.m3u8
+Channel name:Comedy Central
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/674.m3u8
+Channel name:GOLD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/628.m3u8
+Channel name:Syfy
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/488.m3u8
+Channel name:BBC Three HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1139.m3u8
+Channel name:BBC Four
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/736.m3u8
+Channel name:BBC 4 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/906.m3u8
+Channel name:ITV2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/601.m3u8
+Channel name:ITV2 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/600.m3u8
+Channel name:ITV 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/609.m3u8
+Channel name:ITV Encore
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/606.m3u8
+Channel name:ITV Encore HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/604.m3u8
+Channel name:ITVBe
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/595.m3u8
+Channel name:ITVbe HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/907.m3u8
+Channel name:Challenge
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3730.m3u8
+Channel name:FOX HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/756.m3u8
+Channel name:MTV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/574.m3u8
+Channel name:Comedy Xtra
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/673.m3u8
+Channel name:alibi
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/744.m3u8
+Channel name:Good Food
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/626.m3u8
+Channel name:E4
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/650.m3u8
+Channel name:4seven
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/749.m3u8
+Channel name:CBS Reality
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/700.m3u8
+Channel name:CBS Action
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/702.m3u8
+Channel name:CBS Drama
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/701.m3u8
+Channel name:E!
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/652.m3u8
+Channel name:Drama
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/653.m3u8
+Channel name:Spike
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/492.m3u8
+Channel name:DMAX
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1143.m3u8
+Channel name:5 USA
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/748.m3u8
+Channel name:Home & Health
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/620.m3u8
+Channel name:Food Network
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/635.m3u8
+Channel name:Sky Cinema Premiere
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/512.m3u8
+Channel name:Sky Cinema Premiere HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/768.m3u8
+Channel name:Sky Cinema Matt Damon
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/514.m3u8
+Channel name:Sky Cinema Matt Damon HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1022.m3u8
+Channel name:Sky Cinema Disney
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1023.m3u8
+Channel name:Sky Cinema Disney HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/511.m3u8
+Channel name:Sky Cinema Family
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/516.m3u8
+Channel name:Sky Cinema Family HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/770.m3u8
+Channel name:Sky Cinema Action & Adventure
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/521.m3u8
+Channel name:Sky Cinema Action & Adventure HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/769.m3u8
+Channel name:Sky Cinema Comedy
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/519.m3u8
+Channel name:Sky Cinema Comedy HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/772.m3u8
+Channel name:Sky Cinema Crime & Thriller
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/776.m3u8
+Channel name:Sky Cinema Crime & Thriller HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2673.m3u8
+Channel name:Sky Cinema Drama & Romance
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/915.m3u8
+Channel name:Sky Cinema Drama & Romance HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/775.m3u8
+Channel name:Sky Cinema Sci-Fi & Horror
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1138.m3u8
+Channel name:Sky Cinema Sci-Fi & Horror HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/773.m3u8
+Channel name:Sky Cinema Select
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/510.m3u8
+Channel name:Sky Cinema Select HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/777.m3u8
+Channel name:Film4
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/639.m3u8
+Channel name:Movies 4 Men
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/575.m3u8
+Channel name:MTV Music
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/568.m3u8
+Channel name:MTV BASE
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/572.m3u8
+Channel name:MTV Base HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/767.m3u8
+Channel name:MTV Hits
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/569.m3u8
+Channel name:MTV Hits HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1031.m3u8
+Channel name:MTV DANCE
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/570.m3u8
+Channel name:MTV Dance HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/766.m3u8
+Channel name:MTV ROCKS
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/566.m3u8
+Channel name:MTV Rocks HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/765.m3u8
+Channel name:MTV CLASSIC
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/571.m3u8
+Channel name:Heart TV UK
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1144.m3u8
+Channel name:EPL | Game Choice 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9279.m3u8
+Channel name:Sky Sports News HQ
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/499.m3u8
+Channel name:Sky Sports News HQ HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/783.m3u8
+Channel name:Sky Sports News HQ HD*
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1218.m3u8
+Channel name:Sky Sports Mix HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/500.m3u8
+Channel name:Sky Sports 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/506.m3u8
+Channel name:Sky Sports 1 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/916.m3u8
+Channel name:Sky Sports 1 HD*
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1213.m3u8
+Channel name:Sky Sports 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/505.m3u8
+Channel name:Sky Sports 2 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/785.m3u8
+Channel name:Sky Sports 2 HD*
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1214.m3u8
+Channel name:Sky Sports 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/504.m3u8
+Channel name:Sky Sports 3 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/801.m3u8
+Channel name:Sky Sports 3 HD*
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1215.m3u8
+Channel name:Sky Sports 4
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/503.m3u8
+Channel name:Sky Sports 4 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/787.m3u8
+Channel name:Sky Sports 4 HD*
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1216.m3u8
+Channel name:Sky Sports 5
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/502.m3u8
+Channel name:Sky Sports 5 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/788.m3u8
+Channel name:Sky Sports 5 HD*
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1217.m3u8
+Channel name:Sky Sports F1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/501.m3u8
+Channel name:Sky Sports F1 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/789.m3u8
+Channel name:Sky Sports F1 HD*
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3746.m3u8
+Channel name:BT Sport 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/718.m3u8
+Channel name:BT Sport 1 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/790.m3u8
+Channel name:BT Sport 1 HD*
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1220.m3u8
+Channel name:BT Sport 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/717.m3u8
+Channel name:BT Sport 2 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/791.m3u8
+Channel name:BT Sport 2 HD*
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1211.m3u8
+Channel name:BT Sport 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/716.m3u8
+Channel name:BT Sport 3 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/792.m3u8
+Channel name:BT Sport 3 HD*
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1222.m3u8
+Channel name:BT Sport ESPN
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/708.m3u8
+Channel name:BT Sport ESPN HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/793.m3u8
+Channel name:British Eurosport 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/642.m3u8
+Channel name:British Eurosport 1 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/795.m3u8
+Channel name:British Eurosport 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/641.m3u8
+Channel name:British Eurosport 2 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/794.m3u8
+Channel name:BoxNation HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/8041.m3u8
+Channel name:Setanta Sports HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7586.m3u8
+Channel name:MUTV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/564.m3u8
+Channel name:Chelsea TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/683.m3u8
+Channel name:IRE | eir Sport 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/646.m3u8
+Channel name:IRE | eir Sport 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/645.m3u8
+Channel name:LFCTV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/589.m3u8
+Channel name:At The Races
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/739.m3u8
+Channel name:Racing UK
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/540.m3u8
+Channel name:BoxNation
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/954.m3u8
+Channel name:MOTORS TV UK
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/578.m3u8
+Channel name:Premier Sports
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/544.m3u8
+Channel name:Premier Sports HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/543.m3u8
+Channel name:Sky News
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/507.m3u8
+Channel name:BBC News
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/735.m3u8
+Channel name:CNN HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/676.m3u8
+Channel name:EURONEWS
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/643.m3u8
+Channel name:FOX News
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/632.m3u8
+Channel name:Discovery Channel
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/664.m3u8
+Channel name:Animal Planet
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/741.m3u8
+Channel name:Discovery Turbo
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/660.m3u8
+Channel name:Discovery Science
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/662.m3u8
+Channel name:Nat Geo
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/562.m3u8
+Channel name:Nat Geo Wild
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/561.m3u8
+Channel name:History
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/623.m3u8
+Channel name:Discovery History
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/663.m3u8
+Channel name:YESTERDAY
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/456.m3u8
+Channel name:Crime & Investigation
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/671.m3u8
+Channel name:Boomerang
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/723.m3u8
+Channel name:Cartoon Netwrk
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/706.m3u8
+Channel name:Nickelodeon
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/555.m3u8
+Channel name:Nicktoons
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/553.m3u8
+Channel name:Disney XD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/655.m3u8
+Channel name:Disney Channel
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/658.m3u8
+Channel name:Disney Junior
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/656.m3u8
+Channel name:CBBC HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/704.m3u8
+Channel name:CBeebies
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/703.m3u8
+Channel name:Nick Jr.
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/556.m3u8
+Channel name:Tiny Pop
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/481.m3u8
+Channel name:Cartoonito
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/705.m3u8
+Channel name:Nick Jr Too
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/558.m3u8
+Channel name:CITV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/680.m3u8
+Channel name:UK | BabyTV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/738.m3u8
+Channel name:Sky News Arabia
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/495.m3u8
+Channel name:Eden
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2690.m3u8
+Channel name:Cartoon Network HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2717.m3u8
+Channel name:24/7 | American Dad
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/4642.m3u8
+Channel name:24/7 | Thomas The Tank Engine
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/4644.m3u8
+Channel name:24/7 | MTV Catfish: The TV Show
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/4643.m3u8
+Channel name:24/7 | Paw Patrol
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/4646.m3u8
+Channel name:24/7 | Shaun The Sheep
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/4645.m3u8
+Channel name:24/7 | The Simpsons
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/4647.m3u8
+Channel name:24/7 | South Park
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6076.m3u8
+Channel name:24/7 | The Fresh Prince Of Bel Air
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6074.m3u8
+Channel name:24/7 | Family Guy
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6075.m3u8
+Channel name:24/7 | Friends
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6767.m3u8
+Channel name:24/7 | The Big Bang Theory
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6768.m3u8
+Channel name:24/7 | Peppa Pig
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7380.m3u8
+Channel name:24/7 | Billions
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7382.m3u8
+Channel name:24/7 | Breaking Bad
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7381.m3u8
+Channel name:24/7 | Dexter
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7384.m3u8
+Channel name:24/7 | The Sopranos
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7383.m3u8
+Channel name:RADIO | BBC RADIO 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7523.m3u8
+Channel name:RADIO | BBC RADIO 1 XTRA
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7524.m3u8
+Channel name:RADIO | BBC RADIO 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7525.m3u8
+Channel name:RADIO | BBC RADIO 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7526.m3u8
+Channel name:RADIO | CAPITAL FM
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7527.m3u8
+Channel name:RADIO | HEART FM
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7528.m3u8
+Channel name:RADIO | KIDS MOVIE SOUNDTRACKS
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7534.m3u8
+Channel name:RADIO | KIDS ONLY
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7533.m3u8
+Channel name:RADIO | KISS FM
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7529.m3u8
+Channel name:RADIO | MAGIC FM
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7530.m3u8
+Channel name:RADIO | SMOOTH FM
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7531.m3u8
+Channel name:RADIO | TALKSPORT
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7532.m3u8
+Channel name:RADIO | ABSOLUTE 70s
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9332.m3u8
+Channel name:RADIO | ABSOLUTE 80s
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9331.m3u8
+Channel name:RADIO | ABSOLUTE 90s
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9330.m3u8
+Channel name:RADIO | BBC FOYLE (IRE)
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9340.m3u8
+Channel name:RADIO | BBC ULSTER (IRE)
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9339.m3u8
+Channel name:RADIO | DOWNTOWN COUNTRY (IRE)
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9338.m3u8
+Channel name:RADIO | HIGHLAND RADIO (IRE)
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9337.m3u8
+Channel name:RADIO | RTE 1 (IRE)
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9336.m3u8
+Channel name:RADIO | RTE 2 (IRE)
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9335.m3u8
+Channel name:RADIO | RTE GOLD (IRE)
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9334.m3u8
+Channel name:RADIO | TODAY FM (IRE)
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9333.m3u8
+Channel name:UK | Dave Ja Vu
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9280.m3u8
+Channel name:IRE | RTE News NOW
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3745.m3u8
+Channel name:IRE | RTE One
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3743.m3u8
+Channel name:IRE | RTE Two HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3744.m3u8
+Channel name:IRE | RTEjr
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9341.m3u8
+Channel name:IRE | BBC Northern Ireland
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7648.m3u8
+Channel name:IRE | Oireachtas
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7642.m3u8
+Channel name:IRE | TG4
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7647.m3u8
+Channel name:IRE | TV3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7646.m3u8
+Channel name:IRE | Irish TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/524.m3u8
+Channel name:IRE | UTV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7645.m3u8
+Channel name:IRE | UTV HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7644.m3u8
+Channel name:IRE | UTV IE
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7643.m3u8
+Channel name:UK | Sky Atlantic HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9281.m3u8
+Channel name:CELTIC TV [LIVE DURING SPL]
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9372.m3u8
+Channel name:RANGERS TV [LIVE DURING SPL]
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9373.m3u8
+Channel name:Arena Sport 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/869.m3u8
+Channel name:Arena Sport 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/870.m3u8
+Channel name:Arena Sport 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/871.m3u8
+Channel name:Arena Sport 4
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/872.m3u8
+Channel name:Arena Sport 5
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/873.m3u8
+Channel name:Astro Supersports 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/4451.m3u8
+Channel name:Astro Supersports 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/4452.m3u8
+Channel name:Astro Supersports 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/4453.m3u8
+Channel name:Astro Supersports 4
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/4454.m3u8
+Channel name:beIN Sport France 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/850.m3u8
+Channel name:beIN Sport France 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/851.m3u8
+Channel name:beIN Sport France 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/852.m3u8
+Channel name:beIN Sports USA HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/835.m3u8
+Channel name:beIN Sport 1 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/836.m3u8
+Channel name:beIN Sport 2 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/837.m3u8
+Channel name:beIN Sport 3 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/838.m3u8
+Channel name:beIN Sport 4 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/839.m3u8
+Channel name:beIN Sport 5 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/840.m3u8
+Channel name:beIN Sport 6 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/841.m3u8
+Channel name:beIN Sport 7 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/842.m3u8
+Channel name:beIN Sport 8 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/843.m3u8
+Channel name:beIN Sport 9 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/844.m3u8
+Channel name:beIN Sport 10 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/845.m3u8
+Channel name:beIN Sport 11 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/846.m3u8
+Channel name:beIN Sport 12 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/847.m3u8
+Channel name:beIN Sport 14 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/849.m3u8
+Channel name:Fox Sport 1 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/824.m3u8
+Channel name:Fox Sport 2 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/825.m3u8
+Channel name:Fox Sport 1 Malaysia
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/828.m3u8
+Channel name:Fox Sport 2 Thailand
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/827.m3u8
+Channel name:Fox Sport 1 HD NL
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/830.m3u8
+Channel name:Fox Sport 2 HD NL
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/831.m3u8
+Channel name:Fox Sport 3 HD NL
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/832.m3u8
+Channel name:Fox Sport 4 HD NL
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/833.m3u8
+Channel name:Fox Sport 5 HD NL
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/834.m3u8
+Channel name:ligTV 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/883.m3u8
+Channel name:ligTV 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/884.m3u8
+Channel name:ligTV 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/885.m3u8
+Channel name:Moto GP: Live 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1145.m3u8
+Channel name:Moto GP: Live 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1146.m3u8
+Channel name:Moto GP: Live 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1147.m3u8
+Channel name:VIP | NBA TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/861.m3u8
+Channel name:VIP | NBA League Pass Live 1 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/991.m3u8
+Channel name:VIP | NBA League Pass Live 2 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/992.m3u8
+Channel name:VIP | NBA League Pass Live 3 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/993.m3u8
+Channel name:VIP | NBA League Pass Live 4 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/994.m3u8
+Channel name:VIP | NBA League Pass Live 5 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/995.m3u8
+Channel name:VIP | NBA League Pass Live 6 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/996.m3u8
+Channel name:VIP | NBA League Pass Live 7 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/997.m3u8
+Channel name:VIP | NBA League Pass Live 8 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/998.m3u8
+Channel name:VIP | NBA League Pass Live 9 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/999.m3u8
+Channel name:VIP | NBA League Pass Live 10 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1000.m3u8
+Channel name:VIP | NBA League Pass Live 11 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1001.m3u8
+Channel name:NBC Goal Rush
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6470.m3u8
+Channel name:USA | NFL Game Pass *Starts Sept 7th*
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1017.m3u8
+Channel name:VIP | NHL Network HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/860.m3u8
+Channel name:ITV Box Office PPV (PPV Only)
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1183.m3u8
+Channel name:SKYNET Sports 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1342.m3u8
+Channel name:SKYNET Sports 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1343.m3u8
+Channel name:SKYNET Sports 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1344.m3u8
+Channel name:SKYNET Sports 4
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1345.m3u8
+Channel name:SKYNET Sports 5
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1346.m3u8
+Channel name:SKYNET Sports 6
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1347.m3u8
+Channel name:SportKlub 1 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1024.m3u8
+Channel name:SportKlub 2 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1025.m3u8
+Channel name:SportKlub 3 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1026.m3u8
+Channel name:SportKlub 4 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1027.m3u8
+Channel name:SportKlub 5 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1028.m3u8
+Channel name:SportKlub 6 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1029.m3u8
+Channel name:CAN | SportsNet 360 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/857.m3u8
+Channel name:CAN | SportsNet One HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/856.m3u8
+Channel name:CAN | SportsNet World HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/854.m3u8
+Channel name:CAN | SportsNet West HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/853.m3u8
+Channel name:Star Sports 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/802.m3u8
+Channel name:Star Sports 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/803.m3u8
+Channel name:Star Sports 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/804.m3u8
+Channel name:Star Sports 4
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/805.m3u8
+Channel name:CAN | TSN 1 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/868.m3u8
+Channel name:CAN | TSN 2 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/867.m3u8
+Channel name:CAN | TSN 3 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/866.m3u8
+Channel name:CAN | TSN 4 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/865.m3u8
+Channel name:CAN | TSN 5 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/864.m3u8
+Channel name:WWE Network HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/862.m3u8
+Channel name:Ziggo Sport eXtra 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/894.m3u8
+Channel name:OSN sports 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/806.m3u8
+Channel name:OSN sports 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/807.m3u8
+Channel name:OSN sports 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/808.m3u8
+Channel name:OSN sports 4
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/809.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2521.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2522.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2523.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 4
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2524.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 5
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3310.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 6
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3311.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 7
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3312.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 8
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3313.m3u8
+Channel name:FR: SFR Sport 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2525.m3u8
+Channel name:FR: SFR Sport 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2526.m3u8
+Channel name:FR: SFR Sport 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2527.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 10
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3732.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 11
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3733.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 12
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3734.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 13
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3735.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 14
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3736.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 15
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3737.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 16
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3738.m3u8
+Channel name:VIP: MLB GAME PASS LIVE 9
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3731.m3u8
+Channel name:William Hill TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3771.m3u8
+Channel name:SKY SPORTS BOX OFFICE
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7535.m3u8
+Channel name:PPV 1 |
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7650.m3u8
+Channel name:PPV 2 |
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7651.m3u8
+Channel name:PPV 3 |
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7652.m3u8
+Channel name:PPV 4 |
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7653.m3u8
+Channel name:PPV 5 |
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7654.m3u8
+Channel name:NBC XTRA EPL 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7978.m3u8
+Channel name:NBC XTRA EPL 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7979.m3u8
+Channel name:NBC XTRA EPL 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7980.m3u8
+Channel name:NBC XTRA EPL 4
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7981.m3u8
+Channel name:NBC XTRA EPL 5
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7982.m3u8
+Channel name:NBC XTRA EPL 6
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7983.m3u8
+Channel name:NBC XTRA EPL 7
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7984.m3u8
+Channel name:NBC XTRA EPL 8
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7985.m3u8
+Channel name:VIP | NHL Centre Ice HD 7
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2681.m3u8
+Channel name:VIP | NHL Centre Ice HD 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2675.m3u8
+Channel name:VIP | NHL Centre Ice HD 10
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2684.m3u8
+Channel name:VIP | NHL Centre Ice HD 11
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2685.m3u8
+Channel name:VIP | NHL Centre Ice HD 12
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2686.m3u8
+Channel name:VIP | NHL Centre Ice HD 13
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2687.m3u8
+Channel name:VIP | NHL Centre Ice HD 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2676.m3u8
+Channel name:VIP | NHL Centre Ice HD 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2677.m3u8
+Channel name:VIP | NHL Centre Ice HD 4
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2678.m3u8
+Channel name:VIP | NHL Centre Ice HD 5
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2679.m3u8
+Channel name:VIP | NHL Centre Ice HD 6
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2680.m3u8
+Channel name:VIP | NHL Centre Ice HD 8
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2682.m3u8
+Channel name:VIP | NHL Centre Ice HD 9
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/2683.m3u8
+Channel name:USA | UniMas
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/3686.m3u8
+Channel name:CAN | SportsNet East HD*
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/4461.m3u8
+Channel name:CAN | SportsNet One HD*
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/4460.m3u8
+Channel name:CAN | SportsNet Ontario
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/4465.m3u8
+Channel name:CAN | SportsNet Pacific HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/4464.m3u8
+Channel name:CAN | SportsNet World
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/4462.m3u8
+Channel name:USA |   My13
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6214.m3u8
+Channel name:USA |  A&E
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6314.m3u8
+Channel name:USA |  A&E HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6313.m3u8
+Channel name:USA |  A&E TV HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6312.m3u8
+Channel name:USA |  ABC HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6311.m3u8
+Channel name:USA |  Accuweather
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6228.m3u8
+Channel name:USA |  AFN Movie
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6309.m3u8
+Channel name:USA |  AFN News
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6308.m3u8
+Channel name:USA |  AFN Prime Atlantic
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6307.m3u8
+Channel name:USA |  AFN Prime Pacific
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6306.m3u8
+Channel name:USA |  AFN Pulse
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6305.m3u8
+Channel name:USA |  AFN Sports
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6303.m3u8
+Channel name:USA |  AFN Sports 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6302.m3u8
+Channel name:USA |  AMC HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6301.m3u8
+Channel name:USA |  Animal Planet HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6300.m3u8
+Channel name:USA |  Bein Sports USA HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6299.m3u8
+Channel name:USA |  BET
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6229.m3u8
+Channel name:USA |  Bloomberg
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6227.m3u8
+Channel name:USA |  Bravo
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6298.m3u8
+Channel name:USA |  BRAVO HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6297.m3u8
+Channel name:USA |  BTN Sport HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6296.m3u8
+Channel name:USA |  Buzzer
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6212.m3u8
+Channel name:USA |  Cartoon network HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6295.m3u8
+Channel name:USA |  CBS 47 Jacksonville FL
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6226.m3u8
+Channel name:USA |  Cinemax 5 StarMax
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6293.m3u8
+Channel name:USA |  Cinemax East
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6292.m3u8
+Channel name:USA |  CNBC HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6291.m3u8
+Channel name:USA |  CNN HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6290.m3u8
+Channel name:USA |  COMEDY CENTRAL HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6289.m3u8
+Channel name:USA |  Cooking Channel HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6211.m3u8
+Channel name:USA |  CSPAN3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6224.m3u8
+Channel name:USA |  CW HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6288.m3u8
+Channel name:USA |  Discovery Channel HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6287.m3u8
+Channel name:USA |  Discovery Science HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6286.m3u8
+Channel name:USA |  Disney Chnl
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6285.m3u8
+Channel name:USA |  DIY Network
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6225.m3u8
+Channel name:USA |  E! Entertainment
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6198.m3u8
+Channel name:USA |  ESPN
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6284.m3u8
+Channel name:USA |  ESPN 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6283.m3u8
+Channel name:USA |  ESPN 2 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6282.m3u8
+Channel name:USA |  ESPN HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6281.m3u8
+Channel name:USA |  Fight Network
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6280.m3u8
+Channel name:USA |  Fight Network / MMA Network
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6210.m3u8
+Channel name:USA |  Food Network HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6279.m3u8
+Channel name:USA |  FOX 11 News (Los Angeles)
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6216.m3u8
+Channel name:USA |  FOX 13 News (Tampa Bay)
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6215.m3u8
+Channel name:USA |  Fox 5 Washington DC
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6223.m3u8
+Channel name:USA |  Fox HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6217.m3u8
+Channel name:USA |  Fox Sports 1 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6278.m3u8
+Channel name:USA |  Fox Sports 2 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6277.m3u8
+Channel name:USA |  Freeform HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6276.m3u8
+Channel name:USA |  FX HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6275.m3u8
+Channel name:USA |  FXX
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6274.m3u8
+Channel name:USA |  GetTv
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6209.m3u8
+Channel name:USA |  H2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6273.m3u8
+Channel name:USA |  HBO
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6272.m3u8
+Channel name:USA |  HBO Comedy
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6271.m3u8
+Channel name:USA |  HBO Family HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6270.m3u8
+Channel name:USA |  HBO HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6269.m3u8
+Channel name:USA |  HBO SIGNATURE
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6268.m3u8
+Channel name:USA |  HGTV HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6267.m3u8
+Channel name:USA |  HIFI
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6266.m3u8
+Channel name:USA |  HISTORY
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6265.m3u8
+Channel name:USA |  HSN 1 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6205.m3u8
+Channel name:USA |  IFC HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6202.m3u8
+Channel name:USA |  Investigation Discovery
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6264.m3u8
+Channel name:USA |  Investigation Discovery HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6213.m3u8
+Channel name:USA |  KTLA 5
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6208.m3u8
+Channel name:USA |  LIFE TIME
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6263.m3u8
+Channel name:USA |  Lifetime
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6262.m3u8
+Channel name:USA |  MLB Network
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6261.m3u8
+Channel name:USA |  MSNBC
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6222.m3u8
+Channel name:USA |  MTV HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6207.m3u8
+Channel name:USA |  NASA Channel
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6221.m3u8
+Channel name:USA |  NAT GEO HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6260.m3u8
+Channel name:USA |  National Geographic
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6259.m3u8
+Channel name:USA |  NBA TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6258.m3u8
+Channel name:USA |  NBC 10
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6204.m3u8
+Channel name:USA |  NBC Golf
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6257.m3u8
+Channel name:USA |  NBC SPORT
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6256.m3u8
+Channel name:USA |  NFL Network HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6255.m3u8
+Channel name:USA |  NFL NOW HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6254.m3u8
+Channel name:USA |  NHL Network
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6253.m3u8
+Channel name:USA |  NICKELODEN HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6252.m3u8
+Channel name:USA |  Outdoor Channel
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6206.m3u8
+Channel name:USA |  OWN HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6251.m3u8
+Channel name:USA |  PBS America
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6250.m3u8
+Channel name:USA |  QVC
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6203.m3u8
+Channel name:USA |  ShowTime
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6249.m3u8
+Channel name:USA |  ShowTime 2 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6248.m3u8
+Channel name:USA |  Showtime Extreme
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6247.m3u8
+Channel name:USA |  Showtime Showcase
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6246.m3u8
+Channel name:USA |  Showtime West
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6245.m3u8
+Channel name:USA |  Spike HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6244.m3u8
+Channel name:USA |  Sportsnet East HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6201.m3u8
+Channel name:USA |  Starz Cinema HD--
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6243.m3u8
+Channel name:USA |  Starz Comedy
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6242.m3u8
+Channel name:USA |  Starz East
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6241.m3u8
+Channel name:USA |  STARZ EDGE HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6240.m3u8
+Channel name:USA |  Starz Encore
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6239.m3u8
+Channel name:USA |  SYFY HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6238.m3u8
+Channel name:USA |  TBS HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6237.m3u8
+Channel name:USA |  The Weather Channel
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6236.m3u8
+Channel name:USA |  TLC HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6235.m3u8
+Channel name:USA |  TNT
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6234.m3u8
+Channel name:USA |  Travel Channel
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6200.m3u8
+Channel name:USA |  TRU TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6233.m3u8
+Channel name:USA |  USA Network HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6232.m3u8
+Channel name:USA |  VH1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6231.m3u8
+Channel name:USA |  WGN America
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6220.m3u8
+Channel name:USA |  WWE HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6219.m3u8
+Channel name:USA | NBCSN (direct)
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6199.m3u8
+Channel name:USA | The Florida Channel
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6218.m3u8
+Channel name:USA | WWE Network
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/6197.m3u8
+Channel name:USA | CMT (Country Music Television)
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7538.m3u8
+Channel name:IND | &TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7553.m3u8
+Channel name:IND | AsiaNet Movies
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7579.m3u8
+Channel name:IND | AsiaNet News
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7578.m3u8
+Channel name:IND | AsiaNet Plus
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7580.m3u8
+Channel name:IND | AsiaNet TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7581.m3u8
+Channel name:IND | B4U Aflam Arabic
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7555.m3u8
+Channel name:IND | B4U Movies
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7556.m3u8
+Channel name:IND | B4U Music
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7557.m3u8
+Channel name:IND | B4U Plus
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7558.m3u8
+Channel name:IND | Cartoon Network Hindi
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7559.m3u8
+Channel name:IND | Colors
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7563.m3u8
+Channel name:IND | DESI Beats
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7544.m3u8
+Channel name:IND | Discovery
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7546.m3u8
+Channel name:IND | Discovery Turbo India
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7547.m3u8
+Channel name:IND | Food Food
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7548.m3u8
+Channel name:IND | Jaya Max Tamil
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7560.m3u8
+Channel name:IND | Jaya MAX UK
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7554.m3u8
+Channel name:IND | Jaya Movies Tamil
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7561.m3u8
+Channel name:IND | Life OK UK
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7565.m3u8
+Channel name:IND | Sony ESPN
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7583.m3u8
+Channel name:IND | Sony SAB
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7584.m3u8
+Channel name:IND | Sony SetMax
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7582.m3u8
+Channel name:IND | Sony TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7585.m3u8
+Channel name:IND | Star Gold
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7549.m3u8
+Channel name:IND | Star Plus
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7550.m3u8
+Channel name:IND | Star Plus UK
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7551.m3u8
+Channel name:IND | Star Vijay
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7552.m3u8
+Channel name:IND | TEN 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7542.m3u8
+Channel name:IND | TEN 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7541.m3u8
+Channel name:IND | TEN 3
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7540.m3u8
+Channel name:IND | TEN Golf
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7539.m3u8
+Channel name:IND | UTV Movies
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7562.m3u8
+Channel name:IND | Zee Action
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7571.m3u8
+Channel name:IND | Zee Anmol
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7568.m3u8
+Channel name:IND | Zee Bollywood
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7572.m3u8
+Channel name:IND | Zee Smile
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7576.m3u8
+Channel name:IND | Zee Cinema
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7573.m3u8
+Channel name:IND | Zee Living
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7569.m3u8
+Channel name:IND | Zee Marathi HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7566.m3u8
+Channel name:IND | Zee News
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7570.m3u8
+Channel name:IND | Zee Punjabi
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7545.m3u8
+Channel name:IND | Zee Talkies
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7574.m3u8
+Channel name:IND | Zee TV APAC
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7567.m3u8
+Channel name:IND | Zee TV HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7577.m3u8
+Channel name:IND | ZING
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7543.m3u8
+Channel name:IND | ZOOM
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7564.m3u8
+Channel name:IND | MTV India
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7587.m3u8
+Channel name:IND | Rishtey Europe
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7588.m3u8
+Channel name:ISLAM | AlMajd Islamic
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/8003.m3u8
+Channel name:ISLAM | Basma
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/8002.m3u8
+Channel name:ISLAM | Documentary
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/8001.m3u8
+Channel name:ISLAM | Hadeeth
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/8000.m3u8
+Channel name:ISLAM | Majd News
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7999.m3u8
+Channel name:ISLAM | Masah
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7998.m3u8
+Channel name:ISLAM | Nature
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7997.m3u8
+Channel name:ISLAM | Qawda
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7996.m3u8
+Channel name:ISLAM | Quran
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7995.m3u8
+Channel name:ISLAM | Taghareed
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7994.m3u8
+Channel name:PK |  DIN NEWS
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9370.m3u8
+Channel name:PK | 92 News HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9345.m3u8
+Channel name:PK | A PLUS
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9371.m3u8
+Channel name:PK | AAJ NEWS
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9352.m3u8
+Channel name:PK | Ary News
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9344.m3u8
+Channel name:PK | ARY ZAUQ
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9353.m3u8
+Channel name:PK | ATV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9351.m3u8
+Channel name:PK | AVT KHYBER
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9355.m3u8
+Channel name:PK | CAPITAL NEWS
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9357.m3u8
+Channel name:PK | DUNYA News
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9360.m3u8
+Channel name:PK | EXPRESS ENTERTIANMENT
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9369.m3u8
+Channel name:PK | EXPRESS NEWS
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9368.m3u8
+Channel name:PK | Geo Kahani
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9364.m3u8
+Channel name:PK | GEO NEWS
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9367.m3u8
+Channel name:PK | GEO SUPER PK
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9366.m3u8
+Channel name:PK | GEO TEZ
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9365.m3u8
+Channel name:PK | HUM TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9361.m3u8
+Channel name:PK | ISLAM TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9349.m3u8
+Channel name:PK | KAY 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9362.m3u8
+Channel name:PK | MASALA TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9363.m3u8
+Channel name:PK | METRO NEWS
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9348.m3u8
+Channel name:PK | NEWS ONE
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9358.m3u8
+Channel name:PK | PTV HOME
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9359.m3u8
+Channel name:PK | PTV NEWS
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9347.m3u8
+Channel name:PK | PTV SPORTS
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9356.m3u8
+Channel name:PK | ROZE NEWS
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9346.m3u8
+Channel name:PK | URDU 1
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/9354.m3u8
+Channel name:XXX | HOT
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/752.m3u8
+Channel name:XXX | AnySex
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/453.m3u8
+Channel name:XXX | Shades XXX FHD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/452.m3u8
+Channel name:XXX | DUSK
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/451.m3u8
+Channel name:XXX | New Sensations 1 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/450.m3u8
+Channel name:XXX | New Sensations 2 HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/449.m3u8
+Channel name:XXX | Sinful 1 FHD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/448.m3u8
+Channel name:XXX | Sinful 2 FHD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/447.m3u8
+Channel name:XXX | Swinger 1 FHD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/446.m3u8
+Channel name:XXX I Swingers 2 FHD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1187.m3u8
+Channel name:XXX I Swingers 3 FHD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1188.m3u8
+Channel name:XXX I Female Fake Taxi 1 FHD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1189.m3u8
+Channel name:XXX I Female Fake Taxi 2 FHD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1190.m3u8
+Channel name:XXX I Female Fake Taxi 3 FHD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1191.m3u8
+Channel name:XXX I Female Fake Taxi 4 FHD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1192.m3u8
+Channel name:XXX I MyFirstPublic
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1205.m3u8
+Channel name:XXX I Penthouse
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1204.m3u8
+Channel name:XXX I Penthouse TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1203.m3u8
+Channel name:XXX I Naked News
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1364.m3u8
+Channel name:XXX I Meidan Van Holland Hard
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1365.m3u8
+Channel name:XXX I Hustler HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1366.m3u8
+Channel name:XXX I Cento X Cento
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1367.m3u8
+Channel name:XXX I Free X TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1368.m3u8
+Channel name:XXX I Brazzers TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1370.m3u8
+Channel name:XXX I Nubiles Casting
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1197.m3u8
+Channel name:XXX I Penthouse HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1193.m3u8
+Channel name:XXX I PinkO TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1195.m3u8
+Channel name:XXX I Reality Kings TV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1196.m3u8
+Channel name:XXX I SuperOne
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/1194.m3u8
+Channel name:XXX | JasminTV
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7358.m3u8
+Channel name:XXX | Porn Pros 2 FHD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7356.m3u8
+Channel name:XXX | Porn Pros FHD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7355.m3u8
+Channel name:XXX | Erotic 2
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7592.m3u8
+Channel name:XXX | Playboy
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7591.m3u8
+Channel name:XXX | Redlight HD
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7590.m3u8
+Channel name:XXX | Teen Models
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7589.m3u8
+Channel name:XXX | 4K PORN 25
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7767.m3u8
+Channel name:XXX | 4K PORN 26
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7768.m3u8
+Channel name:XXX | 4K PORN 47
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7769.m3u8
+Channel name:XXX | 18Yoga.com
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7988.m3u8
+Channel name:XXX | ButGO
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7987.m3u8
+Channel name:XXX | Candy
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7991.m3u8
+Channel name:XXX | Dorcel Club
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7992.m3u8
+Channel name:XXX | EvilAngel.com
+URL:http://ghosttechuk.ddns.net:25461/live/slats/brandon/7989.m3u8
+[Webtv channel END]
